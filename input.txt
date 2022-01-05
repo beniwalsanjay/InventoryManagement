@@ -1,0 +1,6 @@
+UK:B123AB1234567:Gloves:20:Mask:10
+Germany:B123AB1234567:Gloves:22:Mask:10
+UK:AAB123456789:Gloves:125:Mask:70
+Germany:AAB123456789:Mask:50:Gloves:25
+UK:Gloves:50:Mask:150
+UK:Gloves:250:Mask: 150
